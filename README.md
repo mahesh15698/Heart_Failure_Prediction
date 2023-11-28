@@ -1,6 +1,25 @@
 # Heart_Failure_Prediction
 This is a Heart Failure Prediction Project using Machine Leaning
 
+C:\Users\Admin\Pictures\Heart_Failure\Heart_Failure
+
+![Heart Failure](https://github.com/mahesh15698/Document-Summarization/blob/main/PPT/Text%20Summarization%20PPT%20(1)/Slide3.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Software and account Requirement.
 
