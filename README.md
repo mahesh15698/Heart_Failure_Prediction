@@ -1,6 +1,6 @@
 # Heart_Failure_Prediction
 1. [Review more technical details in EDA.ipynb file?](https://github.com/mahesh15698/Heart_Failure_Prediction/blob/main/EDA.ipynb)
-2. [Find Detail Presentation](https://github.com/mahesh15698/Heart_Failure_Prediction/tree/main/PPT)
+2. [Find Detailed Presentation](https://github.com/mahesh15698/Heart_Failure_Prediction/tree/main/PPT)
 
  
 ![Heart Failure](https://github.com/mahesh15698/Heart_Failure_Prediction/blob/main/Heart_Failure/Slide1.JPG)
@@ -8,8 +8,7 @@
 
 ![Problem Statement](https://github.com/mahesh15698/Heart_Failure_Prediction/blob/main/Heart_Failure/Slide3.JPG)
 
-
-
+![Data Description](https://github.com/mahesh15698/Heart_Failure_Prediction/blob/main/Heart_Failure/Slide4.JPG)
 ## Appendix:
 
 1. [What is Data Scaling?](https://towardsdatascience.com/all-about-feature-scaling-bcc0ad75cb35)
