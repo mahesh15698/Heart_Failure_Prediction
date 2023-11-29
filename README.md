@@ -1,15 +1,6 @@
 # Heart_Failure_Prediction
-## Appendix:
-1. [Review more technical details in EDA.ipynb file?](https://github.com/mahesh15698/Heart_Failure_Prediction/blob/main/EDA.ipynb)
-2. [What is Data Scaling?](https://towardsdatascience.com/all-about-feature-scaling-bcc0ad75cb35)
-3. [What is Feature Engineering and Feature Selection?](https://scikit-learn.org/stable/modules/feature_selection.html)
-4. [What is Random Forest?](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
-5.
-
-
-
-
-C:\Users\Admin\Pictures\Heart_Failure\Heart_Failure
+1.[Review more technical details in EDA.ipynb file?](https://github.com/mahesh15698/Heart_Failure_Prediction/blob/main/EDA.ipynb)
+2.[Find Detail Presentation](https://github.com/mahesh15698/Heart_Failure_Prediction/blob/main/EDA.ipynb)
  
 ![Heart Failure](https://github.com/mahesh15698/Heart_Failure_Prediction/blob/main/Heart_Failure/Slide1.JPG)
 
@@ -19,6 +10,11 @@ C:\Users\Admin\Pictures\Heart_Failure\Heart_Failure
 
 
 
+## Appendix:
+
+2. [What is Data Scaling?](https://towardsdatascience.com/all-about-feature-scaling-bcc0ad75cb35)
+3. [What is Feature Engineering and Feature Selection?](https://scikit-learn.org/stable/modules/feature_selection.html)
+4. [What is Random Forest?](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 
 
 
