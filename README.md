@@ -7,7 +7,7 @@ C:\Users\Admin\Pictures\Heart_Failure\Heart_Failure
 
 ## Problem Statement
 
-![Problem Statement]](https://github.com/mahesh15698/Heart_Failure_Prediction/blob/main/Heart_Failure/Slide3.JPG)
+![Problem Statement](https://github.com/mahesh15698/Heart_Failure_Prediction/blob/main/Heart_Failure/Slide3.JPG)
 
 
 
